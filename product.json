@@ -1,37 +1,31 @@
 {
     "product":[
       {
-        "img":"file:///E:/RNprojects/ks/images/sj.png",
         "name":"小米9 Pro",
         "price":2998,
         "id":1
       },
       {
-        "img":"file:///E:/RNprojects/ks/images/sj.png",
         "name":"Redmi K30",
         "price":1599,
         "id":2
       },
       {
-        "img":"file:///E:/RNprojects/ks/images/sj.png",
         "name":"小米MIX 3",
         "price":1998,
         "id":3
       },
       {
-        "img":"file:///E:/RNprojects/ks/images/sj.png",
         "name":"Redmi Note 8 Pro",
         "price":1799,
         "id":4
       },
       {
-        "img":"file:///E:/RNprojects/ks/images/sj.png",
         "name":"小米CC9 Pro",
         "price":2499,
         "id":5
       },
       {
-        "img":"file:///E:/RNprojects/ks/images/sj.png",
         "name":"Redmi 8A",
         "price":2899,
         "id":6
