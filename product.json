@@ -21,14 +21,34 @@
         "id":4
       },
       {
+        "name":"小米CC9",
+        "price":1999,
+        "id":5
+      },
+      {
+        "name":"Redmi Note 7 Pro",
+        "price":2799,
+        "id":6
+      },
+      {
         "name":"小米CC9 Pro",
         "price":2499,
-        "id":5
+        "id":7
+      },
+      {
+        "name":"Redmi K30 4G",
+        "price":2599,
+        "id":8
+      },
+      {
+        "name":"Redmi K30 5G",
+        "price":2999,
+        "id":9
       },
       {
         "name":"Redmi 8A",
         "price":2899,
-        "id":6
+        "id":10
       }
     ]
   }
