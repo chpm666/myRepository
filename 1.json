@@ -1,0 +1,293 @@
+{
+    "msg": "成功",
+    "result": {
+        "infoMap": {
+            "pageIndex": 1,
+            "InfoList": [
+                {
+                    "infoMap": {
+                        "userId": 62561366820874,
+                        "runDistance": "6万公里",
+                        "registTime": "2015.07上牌",
+                        "userName": "广元益信精品车",
+                        "userPhone": "150****6776",
+                        "price": "22.24",
+                        "isBiz": true,
+                        "infoId": "40056860389653",
+                        "title": "奥迪 A6L 2014款 TFSI 标准型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2f7e98de56c544807b6896ff57833c32a_7db043c1d3deba11.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 62634688341259,
+                        "runDistance": "8.7万公里",
+                        "registTime": "2012.04上牌",
+                        "userName": "璀璨年崋",
+                        "userPhone": "13459015251",
+                        "price": "10.85",
+                        "isBiz": true,
+                        "infoId": "40445075923211",
+                        "title": "奥迪 A6L 2012款 TFSI 标准型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2e0329c29c788422d9dffee45fea9e7a5_47102a0bc460b29c.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 67165310938135,
+                        "runDistance": "3.08万公里",
+                        "registTime": "2017.11上牌",
+                        "userName": "益信车网",
+                        "userPhone": "187****2198",
+                        "price": "26.89",
+                        "isBiz": true,
+                        "infoId": "40565506774416",
+                        "title": "奥迪 A6L 2018款 30周年年型 TFSI 进取型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v223193e7d0d6b4e0fbd070ab245d8e2bd_b304156a16c3e5ef.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 60200811256078,
+                        "runDistance": "7万公里",
+                        "registTime": "2012.07上牌",
+                        "userName": "吉顺通精品二手车",
+                        "userPhone": "152****1852",
+                        "price": "19.5",
+                        "isBiz": true,
+                        "infoId": "40664352341506",
+                        "title": "奥迪 A6L 2012款 TFSI 标准型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v28340958c86f14a608664897807be4c12_00edcd5d16621f64.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 55397349615895,
+                        "runDistance": "3.8万公里",
+                        "registTime": "2017.04上牌",
+                        "userName": "福州魔都极品二手车",
+                        "userPhone": "13101402527",
+                        "price": "25.8",
+                        "isBiz": true,
+                        "infoId": "40642138722323",
+                        "title": "奥迪 A6L 2017款 30 FSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2a60665969a13401b8c81210e126d5b61_6920f23eb3726636.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 61613086334468,
+                        "runDistance": "7.7万公里",
+                        "registTime": "2016.02上牌",
+                        "userName": "福州市马尾区玖盛汽车信息咨询服务部",
+                        "userPhone": "183****4686",
+                        "price": "23",
+                        "isBiz": true,
+                        "infoId": "40674674568709",
+                        "title": "奥迪 A6L 2015款 TFSI 百万纪念智领型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2b8fd270ea2bd4eb38f5b8c7db745064b_88125f38c7c8827b.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 62634688341259,
+                        "runDistance": "4.2万公里",
+                        "registTime": "2017.01上牌",
+                        "userName": "璀璨年崋",
+                        "userPhone": "13459015251",
+                        "price": "20.8",
+                        "isBiz": true,
+                        "infoId": "40408305271197",
+                        "title": "奥迪 A6L 2017款 TFSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v20feec5189b32451c92bef75d95810cd6_4413948c7a358e47.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 55357032421910,
+                        "runDistance": "4.9万公里",
+                        "registTime": "2016.05上牌",
+                        "userName": "福州市马尾区久盛汽车信息咨询服务部",
+                        "userPhone": "18059061987",
+                        "price": "25.83",
+                        "isBiz": true,
+                        "infoId": "40431576911390",
+                        "title": "奥迪 A6L 2016款 30 FSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2183dcb895b6a4876a4c749930b495bc6_b86f14905138c6d7.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 59142226275597,
+                        "runDistance": "9万公里",
+                        "registTime": "2016.06上牌",
+                        "userName": "宁波海曙佳辰二手车经纪有限公司",
+                        "userPhone": "15557891207",
+                        "price": "26.59",
+                        "isBiz": true,
+                        "infoId": "40665057705255",
+                        "title": "奥迪 A6L 2016款 TFSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2bce38e8ad9b74df0a85693c380578edd_01d856d7f80a5063.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 39807504339221,
+                        "runDistance": "12万公里",
+                        "registTime": "2011.01上牌",
+                        "userName": "隆筹好车716",
+                        "userPhone": "18823723477",
+                        "price": "10.3",
+                        "isBiz": true,
+                        "infoId": "40667116132740",
+                        "title": "奥迪 A6L 2011款 2.0 TFSI 自动舒适型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v25c65568807e64782a6538e1a37ab3dab_e8744bcb6c3dd008.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 66255566558485,
+                        "runDistance": "6万公里",
+                        "registTime": "2016.11上牌",
+                        "userName": "隆筹好车716",
+                        "userPhone": "159****0994",
+                        "price": "25.53",
+                        "isBiz": true,
+                        "infoId": "40378989185288",
+                        "title": "奥迪 A6L 2017款 TFSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v244b7c2ee69104e1aa1699ff5746954c0_1711940196714cf5.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 62473262946322,
+                        "runDistance": "5.2万公里",
+                        "registTime": "2016.03上牌",
+                        "userName": "福州市马尾区玖盛汽车信息咨询服务部",
+                        "userPhone": "150****4190",
+                        "price": "24",
+                        "isBiz": true,
+                        "infoId": "40565166884121",
+                        "title": "奥迪 A6L 2016款 30 FSI 舒适型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v29af6bfd0f3b0460384f8ca47da609af6_b427455555e9110a.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 67473380288535,
+                        "runDistance": "9万公里",
+                        "registTime": "2013.05上牌",
+                        "userName": "精品二手车",
+                        "userPhone": "166****5684",
+                        "price": "19.58",
+                        "isBiz": true,
+                        "infoId": "40409408728089",
+                        "title": "奥迪 A6L 2012款 TFSI 舒适型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v29b0b403b3c204fa783cdf06466cef296_71df9526449ccca1.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 50776128266774,
+                        "runDistance": "5万公里",
+                        "registTime": "2015.07上牌",
+                        "userName": "福建恩典汽车服务有限公司",
+                        "userPhone": "13358269809",
+                        "price": "23.5",
+                        "isBiz": true,
+                        "infoId": "40310349732244",
+                        "title": "奥迪 A6L 2015款 30 FSI 百万纪念舒享型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2593716c14faf4a83bba684a11be33da4_2b6bc905135f15a1.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 64576499772934,
+                        "runDistance": "3万公里",
+                        "registTime": "2016.03上牌",
+                        "userName": "隆筹好车",
+                        "userPhone": "15695957306",
+                        "price": "24.8",
+                        "isBiz": true,
+                        "infoId": "40587452055308",
+                        "title": "奥迪 A6L 2016款 TFSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/mobile/big/n_v27d63a307acde4b068eec3313fb0c9220_d119c8c80031b41d.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 26530714706183,
+                        "runDistance": "8.9万公里",
+                        "registTime": "2012.09上牌",
+                        "userName": "石狮市乐之途汽车贸易有限公司",
+                        "userPhone": "155****9856",
+                        "price": "17.9",
+                        "isBiz": true,
+                        "infoId": "40453687527695",
+                        "title": "奥迪 A6L 2012款 35 FSI 豪华型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2d2878c96ee8642cfb671a5921db79641_f9a04fc9a78d5cad.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 62634688341259,
+                        "runDistance": "7.5万公里",
+                        "registTime": "2014.07上牌",
+                        "userName": "璀璨年崋",
+                        "userPhone": "13459015251",
+                        "price": "16.95",
+                        "isBiz": true,
+                        "infoId": "40356928887186",
+                        "title": "奥迪 A6L 2014款 30 FSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v20b2851295dd14d0886c709bedcb75fdd_0d189d8be463aa13.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 67890965739532,
+                        "runDistance": "10万公里",
+                        "registTime": "2013.02上牌",
+                        "userName": "精品二手车",
+                        "userPhone": "13003760901",
+                        "price": "21",
+                        "isBiz": true,
+                        "infoId": "40297704718374",
+                        "title": "奥迪 A6L 2012款 35 FSI quattro 豪华型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v22391e333f0e54ab8afc0bd2bdca29edf_707ead9ffb3b9914.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 67760005600259,
+                        "runDistance": "10.1万公里",
+                        "registTime": "2016.05上牌",
+                        "userName": "精品二手车旗舰展厅",
+                        "userPhone": "13095977195",
+                        "price": "26.5",
+                        "isBiz": true,
+                        "infoId": "40418833837446",
+                        "title": "奥迪 A6L 2016款 TFSI 运动型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v24a172f9449744c08865e26f369e98673_da5aa8863b6c846d.jpg"
+                    }
+                },
+                {
+                    "infoMap": {
+                        "userId": 63757939794194,
+                        "runDistance": "3万公里",
+                        "registTime": "2017.04上牌",
+                        "userName": "福州市马尾区久盛汽车信息咨询服务部",
+                        "userPhone": "18965094881",
+                        "price": "27.8",
+                        "isBiz": true,
+                        "infoId": "40662050808334",
+                        "title": "奥迪 A6L 2017款 TFSI 技术型",
+                        "pic": "http://pic1.58cdn.com.cn/p1/big/n_v2c37bf173b9384179a23249426e74ffd9_02dc2ee6d7ce80db.jpg"
+                    }
+                }
+            ],
+            "listSize": 2357,
+            "pageSize": 10
+        }
+    },
+    "status": 0
+}
